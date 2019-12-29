@@ -1,1 +1,2 @@
-adasd
+project dependencies:
+lavarel
